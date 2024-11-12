@@ -1,26 +1,24 @@
 criaCartao(
-//categoria,
-'Progamação'
-//pergunta,
-'O que é JavaScript'
-//resposta,
-'O JavaScript é uma linguagem de programação'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    //categoria,
-    'Progamação'
-    //pergunta,
-    'O que é JavaScript'
-    //resposta,
-    'O JavaScript é uma linguagem de programação'
-    )
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
 
 criaCartao(
-        //categoria,
-        'Progamação'
-        //pergunta,
-        'O que é JavaScript'
-        //resposta,
-        'O JavaScript é uma linguagem de programação'
-        )
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+ 
+criaCartao(
+    'Geografia',
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é brasília'
+
+)
